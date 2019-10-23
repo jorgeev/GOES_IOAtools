@@ -12,3 +12,4 @@ Holoviews
 pyresample
 Geoviews
 Bokeh
+netCDF4
