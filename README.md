@@ -5,11 +5,11 @@ Toolsets developed for GOES R & S NETCDF manipulation using Holoviews, Geoviews 
 
 Python 3 libraries:
 
-xarray
-cartopy
-Datashader
-Holoviews
-pyresample
-Geoviews
-Bokeh
-netCDF4
+- xarray
+- cartopy
+- Datashader
+- Holoviews
+- pyresample
+- Geoviews
+- Bokeh
+- netCDF4
